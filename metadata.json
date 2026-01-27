@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GameScout AI",
+  "description": "Real-time game screen monitoring tool that alerts you when specific visual elements appear using Gemini Vision.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
